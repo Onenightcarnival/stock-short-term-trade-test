@@ -1,5 +1,7 @@
-date,operation,tick,price,quantity
-2020-12-01,buy,SE,179.15,20
-2020-12-01,buy,AES,20.65,200
-2020-12-01,buy,BIDU,139.28,20
-2020-12-02,sell,AES,20.34,200
+date,operation,tick,price,quantity,realized_gain
+2020-12-01,buy,SE,179.15,20,0
+2020-12-01,buy,AES,20.65,200,0
+2020-12-01,buy,BIDU,139.28,20,0
+2020-12-02,sell,AES,20.34,200,-62
+2020-12-03,buy,GRBK,21.96,177,0
+2020-12-03,buy,MSFT,214.96,20,0
