@@ -1,0 +1,5 @@
+date,operation,tick,price,quantity
+2020-12-01,buy,SE,179.15,20
+2020-12-01,buy,AES,20.65,200
+2020-12-01,buy,BIDU,139.28,20
+2020-12-02,sell,AES,20.34,200
