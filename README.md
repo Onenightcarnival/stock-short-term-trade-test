@@ -11,4 +11,6 @@ If there are more data like 2H chart, the algorithm could be fine tuned with mor
 
 I do the trades based on the fine grained strategy in my personal account with real money.
 
+Experiment portfolio is initialized to $20,000
+
 All the records are saved in "realtime_trading_log.csv", update weekly.
