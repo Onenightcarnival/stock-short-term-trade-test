@@ -6,3 +6,4 @@ date,operation,tick,price,quantity,realized_gain
 2020-12-03,buy,GRBK,21.96,177,0
 2020-12-03,buy,MSFT,214.96,20,0
 2020-12-04,sell,SE,197,16,285.6
+2020-12-05,buy,MSI,171.46,23,0
