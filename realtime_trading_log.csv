@@ -9,3 +9,5 @@ date,operation,tick,price,quantity,realized_gain
 2020-12-07,buy,MSI,171.46,23,0
 2020-12-08,sell,MSI,169.18,23,-52.44
 2020-12-08,buy,EL,247,15,0
+2020-12-09,sell,SE,207.37,4,112.92
+2020-12-09,sell,MSFT,211.82,15,-47.1
