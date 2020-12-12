@@ -11,3 +11,6 @@ id,date,operation,tick,price,quantity,realized_gain
 10,2020-12-08,buy,EL,247,15,0
 11,2020-12-09,sell,SE,207.37,4,112.92
 12,2020-12-09,sell,MSFT,211.82,15,-47.1
+13,2020-12-11,buy,STNE,74.69,35,0
+14,2020-12-11,buy,COUP,317.58,10,0
+15,2020-12-11,sell,BIDU,160,20,414.4
