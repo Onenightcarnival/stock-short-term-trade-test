@@ -25,3 +25,5 @@ id,date,operation,tick,price,quantity,realized_gain
 24,2020-12-21,sell,PCG,12.09,200,-28
 25,2020-12-21,buy,CHTR,656.26,6,0
 26,2020-12-21,buy,FITB,27.16,125,0
+27,2020-12-22,sell,CHTR,644.88,6,-68.28
+28,2020-12-22,buy,CSX,89.87,35,0
