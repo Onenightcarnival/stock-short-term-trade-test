@@ -30,3 +30,4 @@ id,date,operation,tick,price,quantity,realized_gain
 29,2020-12-28,sell,COUP,343.71,3,78.39
 30,2020-12-29,sell,STNE,81.86,15,107.55
 31,2020-12-29,sell,GRBK,23.02,36,38.16
+32,2020-12-30,buy,NOW,548.92,8,0
