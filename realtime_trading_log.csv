@@ -27,3 +27,6 @@ id,date,operation,tick,price,quantity,realized_gain
 26,2020-12-21,buy,FITB,27.16,125,0
 27,2020-12-22,sell,CHTR,644.88,6,-68.28
 28,2020-12-22,buy,CSX,89.87,35,0
+29,2020-12-28,sell,COUP,343.71,3,78.39
+30,2020-12-29,sell,STNE,81.86,15,107.55
+31,2020-12-29,sell,GRBK,23.02,36,38.16
