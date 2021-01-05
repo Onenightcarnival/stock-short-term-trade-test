@@ -34,3 +34,5 @@ id,date,operation,tick,price,quantity,realized_gain
 33,2021-01-04,sell,NOW,533.18,8,-125.92
 34,2021-01-04,sell,CSX,88.72,35,-40.25
 35,2021-01-04,sell,FITB,27.05,125,-13.75
+36,2021-01-05,buy,SQ,220.82,18,0
+37,2021-01-05,buy,SE,198.98,20,0
