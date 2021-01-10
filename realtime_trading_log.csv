@@ -40,3 +40,4 @@ id,date,operation,tick,price,quantity,realized_gain
 39,2021-01-07,sell,SQ,238.27,15,261.75
 40,2021-01-07,sell,SQ,239.63,3,56.43
 41,2021-01-07,buy,LULU,367.58,15,0
+42,2021-01-08,buy,TEAM,232.56,25,0
