@@ -50,3 +50,5 @@ id,date,operation,tick,price,quantity,realized_gain
 49,2021-01-13,sell,TEAM,228.08,25,-112
 50,2021-01-13,sell,AER,44.21,60,-124.8
 51,2021-01-13,sell,HHC,81.96,10,27.2
+52,2021-01-15,buy,DELL,73.39,60,0
+53,2021-01-15,sell,COUP,332.04,15,-243.9
