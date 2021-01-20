@@ -54,3 +54,4 @@ id,date,operation,tick,price,quantity,realized_gain
 53,2021-01-15,sell,COUP,332.04,15,-243.9
 54,2021-01-19,buy,SHOP,1184.67,2,0
 55,2021-01-19,buy,NET,80.87,25,0
+56,2021-01-20,sell,DELL,77.02,60,220.2
