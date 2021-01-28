@@ -58,3 +58,6 @@ id,date,operation,tick,price,quantity,realized_gain
 57,2021-01-20,buy,SHOP,1199.78,2,0
 58,2021-01-21,buy,NET,82.60,10,0
 59,2021-01-25,sell,NET,78.78,35,-90.3
+60,2021-01-26,buy,SPOT,337.19,12,0
+61,2021-01-27,sell,SHOP,1121.26,4,-286.86
+62,2021-01-27,sell,SPOT,326.42,12,-129.24
