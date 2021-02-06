@@ -61,3 +61,5 @@ id,date,operation,tick,price,quantity,realized_gain
 60,2021-01-26,buy,SPOT,337.19,12,0
 61,2021-01-27,sell,SHOP,1121.26,4,-286.86
 62,2021-01-27,sell,SPOT,326.42,12,-129.24
+63,2021-02-04,buy,AAPL,135.93,22,0
+64,2021-02-04,buy,MU,81.18,50,0
